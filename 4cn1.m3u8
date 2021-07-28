@@ -3,6 +3,6 @@
 #EXTVLCOPT:network-caching=1000
 #https://tv.teleclub.xyz/canales/club/RCN.m3u8
 #https://tv.teleclub.xyz/canales/club3/RCN.m3u8
-http://186.101.216.211:8000/play/a09k
+#http://186.101.216.211:8000/play/a09k
 #http://xtreampanel.vip:2087/2PRNPgLcdn/5Ghyc18wrS/24475
-#https://tv.teleclub.xyz/live/club2/RCN.m3u8
+https://tv.teleclub.xyz/live/club2/RCN.m3u8
